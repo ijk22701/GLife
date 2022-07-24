@@ -22,6 +22,8 @@ namespace GLife
             //create a single object for game
             Game game = new Game();
             game.PlayTheGame();
+
+            
         }
     }
 }

@@ -2,6 +2,8 @@
 //Date         Developer            Description
 //2021-02-6   Isaac K         --Creation of file for program
 //2021-02-6   Isaac K         --Completion of program
+//2022-07-24  Isaac K         --Added a stop to the program at the end so user can evaluate the end board
+//                              without the program ending automatically 
 
 using System;
 
@@ -63,6 +65,8 @@ namespace GLife
                 SwapTheBoards();
             }
 
+            Console.WriteLine("Press any key to continue: ");
+            Console.ReadKey();
             //display the game board
 
             //process gameboard and store results in the buffer board
