@@ -1,0 +1,6 @@
+D:\Coder Bruh\GLife\bin\Release\GLife.exe.config
+D:\Coder Bruh\GLife\bin\Release\GLife.exe
+D:\Coder Bruh\GLife\bin\Release\GLife.pdb
+D:\Coder Bruh\GLife\obj\Release\GLife.csproj.CoreCompileInputs.cache
+D:\Coder Bruh\GLife\obj\Release\GLife.exe
+D:\Coder Bruh\GLife\obj\Release\GLife.pdb
